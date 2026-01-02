@@ -64,7 +64,7 @@ Follow these steps to set up the project locally using NetBeans and MySQL.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/vipul-space23/Medical-Store-Management-System.git
+git clone https://github.com/piyushsingh666/Medical-Store-Management-System.git
 cd Medical-Store-Management-System
 ```
 
@@ -168,10 +168,3 @@ Key areas for future development include.pdf]:
 
 -----
 
-## 📜 License & Contact
-
-This project is licensed under the **MIT License**.
-
-**Project Author:** Vipul Patil
-
-Project Link: [https://github.com/vipul-space23/Medical-Store-Management-System](https://www.google.com/search?q=https://github.com/vipul-space23/Medical-Store-Management-System)
